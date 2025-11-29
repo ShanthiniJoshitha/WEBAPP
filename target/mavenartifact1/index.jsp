@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Welcome to DevOps Training :) - Edited" %></h2>
+<h2><%= "Welcome to DevOps Training :) - If you're seeing this, that means poll SCM is working" %></h2>
 </body>
 </html>
